@@ -33,6 +33,6 @@
 		include('index.php'); 
 	}
 	include('footer.php');
-	?> ?>
+	?> 
 </body>
 </html>

@@ -1,3 +1,4 @@
+
 .navbar-brand{
  padding: 1% 1% 1% 5%;
 }
@@ -12,7 +13,9 @@
 .navbar-toggler-icon{
     color: black;
 }
-
+.menu-tittle{
+    padding-top: 10px;
+}
 .col-mb-3{
   
    padding: 1em 2em 1em 0;
@@ -20,17 +23,42 @@
 .card{
     border: none;
 }
+.adtocart{
+    background-color: red;
+}
+.adtocart img{
+    max-width: 2em;
+    max-height: 2em;  ;
+}
+.product_img{
+    border-radius: 25%;
+    padding: 0.5em 0.5em 0.5em 0.5em;
+    box-sizing: border-box;
+}
 .center{
     border: 1px solid black;
     background-color: aquamarine;
 }
 .right{
-    padding-top: 4%;
-
+    padding-top: 8%;
 }
 .thuc-don{
     background-image: url(img/back_ground_pay.png);
    background-size: cover;
+}
+.table-num{
+    padding-top: 1em;
+    font-size: large;
+    font-weight: bold;
+}
+
+.thuc-don button{
+    margin-bottom: 2em;
+    border-radius : 30%;
+}
+.thuc-don input{
+    margin-bottom: 1em;
+    
 }
 .logo{
     border-radius: 50%;
